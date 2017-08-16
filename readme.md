@@ -1,5 +1,7 @@
 #### 第三模块，面向对象笔记 -- wupeiqi版
 
+学习参考链接：http://www.cnblogs.com/wupeiqi/p/4493506.html
+
 面向对象：
 
 
